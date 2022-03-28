@@ -3,7 +3,7 @@ body{
     padding: 0;
 }
 
-.container1{
+.container{
     width: 60%;
     background: #905d5c;
     border: 15px solid black;
@@ -11,7 +11,7 @@ body{
     padding: 40px 5%;
 }
 
-.container2{
+.um{
     background: white;
     padding: 45px 10px;
     text-align: center;
@@ -25,7 +25,7 @@ p{
     font-size: 30px;
 }
 
-.container-center{
+.dois{
     margin-top: 60px;
     display: flex;
     flex-direction: column;
@@ -33,43 +33,43 @@ p{
     padding: 0 40px;
 }
 
-.container3{
+.div_1{
     height: 35px;
     width: 80%;
     background: blue;
 }
-.container4{
+.div_2{
     height: 35px;
     width: 50%;
     background: purple;
 }
-.container5{
+.div_3{
     height: 35px;
     width: 70%;
     background: green;
 }
-.container6{
+.div_4{
     height: 35px;
     width: 60%;
     background: yellow;
 }
 
-.container7{
+.tres{
     margin: 60px 10px;
     display: flex;
 }
 
-.container8{
+.div_5{
     height: 35px;
     width: 40%;
     background: red;
 }
-.container9{
+.div_6{
     height: 35px;
     width: 20%;
     background: darkcyan;
 }
-.container10{
+.div_7{
     height: 35px;
     width: 40%;
     background: rgb(0, 255, 0);
